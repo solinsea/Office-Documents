@@ -42,52 +42,68 @@
   * *Work Area៖* ស្រទាប់ខាងក្នុងគេបង្អស់សម្រាប់បញ្ចូល ឬកែប្រែអត្ថបទ រូបភាព តារាង ក្រាប។
 * **``Scroll bar៖``** មានទាំងបញ្ឈរ និងផ្តេក សម្រាប់រំកិលមើលផ្នែកផ្សេងៗនៃឯកសារ។
 * **``Status bar៖``** របាស្ថិតនៅក្រោមគេបង្អស់ បង្ហាញការងារកំពុងធ្វើ ដូចជា ចំនួនពាក្យ ចំនួនទំព័រ និងលេខទំព័របច្ចុប្បន្ន។
-* **``View button៖``** បង្ហាញ Layout View ទាំង ៥ របស់ Word 2010 (Print Layout, Full Reading Layout, Web Layout, Outline Layout, Draft Layout)។
-* **``Zoom Controller៖``** ប្រើដើម្បីពង្រីក (ធំបំផុត 500%) ឬបង្រួម (តូចបំផុត 10%) ផ្ទៃនៃឯកសារ។
+* **``View button៖``** បង្ហាញ Layout View ទាំង ៥ របស់ Word 2010 (Print Layout, Full Reading  Layout, Web Layout, Outline Layout, Draft Layout)។
+* **``Zoom Controller៖``** ប្រើដើម្បីពង្រីក (ធំបំផុត 500%) ឬបង្រួម (តូចបំផុត 10%) ផ្ទៃនៃឯកសារ។​ <br>
+     <img src="2.png" height ="500">
 
 ### ៤. បញ្ជី **Mouse Pointer** ដែលប្រើប្រាស់ញឹកញាប់
-* **I-beam pointer៖** ផ្លាស់ប្តូរ Insertion point ឬ select text។
-* **Click និង Type pointer (មាន alignment)៖** ផ្លាស់ប្តូរ Insertion point ទៅកាន់ទីតាំងទំនេរដោយ double-clicking រួច paragraph formatting នឹងត្រូវបានបញ្ចូល។
-* **Selection pointer៖** ចុចលើប៊ូតុង ឬវត្ថុបញ្ជាផ្សេងៗ។
-* **Right-pointing arrow pointer៖** Select យកមួយបន្ទាត់ ឬច្រើនបន្ទាត់ (លេចឡើងពេលចង្អុលទៅ Margin ខាងឆ្វេង)។
-* **Hand pointer៖** ប្រើចុចលើ hyperlink ដើម្បីភ្ជាប់ទៅកាន់ឯកសារ ឯកសារយោង ឬវត្ថុផ្សេងទៀត។
-* **Hide/Show white space pointer៖** លាក់ ឬបង្ហាញវិញនូវចន្លោះទំនេរក្នុង margin ផ្នែកខាងលើ និងខាងក្រោមនៃឯកសារ។
+| ឈ្មោះ | និមិត្តសញ្ញា | មុខងារ និងការប្រើប្រាស់ |
+| :--- | :--- | :--- |
+| **I-beam pointer** | I | ផ្លាស់ប្តូរ Insertion point ឬ select text (ជ្រើសរើសអត្ថបទ)។ |
+| **Click និង Type pointer ដែលមាន aligment** |I , I , I | ផ្លាស់ប្តូរ Insertion point ទៅកាន់ទីតាំងទំនេរដោយ double-clicking រួច paragraph formatting នឹងត្រូវបានបញ្ចូល។ |
+| **Selection pointer** | ព្រួញធម្មតា | ចុចលើប៊ូតុង ឬវត្ថុបញ្ជាផ្សេងៗនៅលើកម្មវិធី។ |
+| **Right-pointing arrow pointer** | ព្រួញចង្អុលទៅស្តាំ | Select យកមួយបន្ទាត់ ឬច្រើនបន្ទាត់ (លេចឡើងពេលចង្អុលទៅ Margin ខាងឆ្វេង)។ |
+| **Hand pointer** | រូបប្រអប់ដៃ | ប្រើចុចលើ hyperlink ដើម្បីភ្ជាប់ទៅកាន់ឯកសារ ឯកសារយោង ឬវត្ថុផ្សេងទៀត។ |
+| **Hide/Show white space pointer** | ព្រួញក្បាលពីរ (លើ-ក្រោម) | លាក់ ឬបង្ហាញវិញនូវចន្លោះទំនេរក្នុង margin ផ្នែកខាងលើ និងខាងក្រោមនៃឯកសារ។ |
 
 ### ៥. ការបង្កើត និងការបិទឯកសារ (Creating & Closing a Document)
-* **Creating a New Document៖** ចូលទៅកាន់ Backstage View តាម File Menu -> ចុចលើប៊ូតុង New -> ជ្រើសរើស Blank document ឬ Template -> ចុចលើ Create។
-* **Closing a Document៖** ចុចលើ File -> ចុចលើ Close ក្នុង Backstage View។ ប្រសិនបើមិនទាន់បាន Save នោះផ្ទាំង Information Dialog Box នឹងសួរបញ្ជាក់ថា *"Do you want to save changes you made to Document1?"*
-  * *Save៖* អនុវត្តការ Save រួចទើបបិទ។
-  * *Don't Save៖* បិទភ្លាមៗ ហើយកិច្ចការដែលពុំទាន់បាន Save នឹងត្រូវបាត់បង់។
-  * *Cancel៖* មិនបិទឯកសារនោះទេ។
+* **Creating a New Document៖** ចូលទៅកាន់ Backstage View
+  * វិធីទី ១
+        `` File Menu >  New >  Blank document ឬ Template > ចុចលើ Create។``
+  * វិធីទី ២
+    ``Ctlr + N``
+    
+* **Closing a Document៖** ចុចលើ 
+    &ensp; ``File > Close``​ ឬ ``Alt + F4`` &ensp; ។
+    
+    &ensp; ប្រសិនបើមិនទាន់បាន Save នោះផ្ទាំង Information Dialog Box នឹងសួរបញ្ជាក់ថា *"Do you want to save changes you made to Document1?"*
+  * ***Save៖*** អនុវត្តការ **Save** រួចទើបបិទ។
+  * ***Don't Save៖*** បិទភ្លាមៗ ហើយកិច្ចការដែលពុំទាន់បាន **Save** នឹងត្រូវបាត់បង់។
+  * ***Cancel៖*** មិនបិទឯកសារនោះទេ។ <br>
+    <img src="3.png">
+
 
 ### ៦. ការវាយបញ្ចូល និងលុបអត្ថបទ (Entering, Inserting & Deleting Text)
-* **Entering Text៖** ពេលវាយ អក្សរនឹងលេចចេញពីខាងឆ្វេង Cursor រួចរុញ Cursor ទៅតាម alignment។
-* **Caps Lock៖** ចុចដើម្បីវាយអក្សរ UPPER CASE (អក្សរពុម្ពធំ) ទាំងអស់ និងចុចម្តងទៀតដើម្បីដោះចេញ។
-* **Shift៖** ចុចរួមគ្នាជាមួយ Key ណាមួយដើម្បីចេញអក្សរពុម្ពធំ ឬនិមិត្តសញ្ញាខាងលើ (ពេលលែងម្រាមដៃនឹងត្រឡប់មកធម្មតាវិញ)។
-* **Space Bar៖** ប្រើដើម្បីដកឃ្លា។
-* **Enter៖** ប្រើសម្រាប់ចុះបន្ទាត់។
-* **Tab៖** ប្រើដើម្បីចូលបន្ទាត់។
-* **Num Lock៖** ប្រើបើកភ្លើង Num Lock ដើម្បីប្រើប្រាស់ Numeric Key (ក្តារចុចលេខ)។
-* **Inserting Text៖** Insert តួអក្សរត្រង់ទីតាំង Cursor។ ប្រសិនបើចង់ Insert ដោយលុបតួអក្សរខាងស្តាំជាប់ Cursor ត្រូវចុចលើ *Insert Key*។
+* **``Entering Text៖``** ពេលវាយ អក្សរនឹងលេចចេញពីខាងឆ្វេង Cursor រួចរុញ Cursor ទៅតាម alignment។
+* **``Caps Lock៖``** ចុចដើម្បីវាយអក្សរ UPPER CASE (អក្សរពុម្ពធំ) ទាំងអស់ និងចុចម្តងទៀតដើម្បីដោះចេញ។
+* **``Shift៖``** ចុចរួមគ្នាជាមួយ Key ណាមួយដើម្បីចេញអក្សរពុម្ពធំ ឬនិមិត្តសញ្ញាខាងលើ (ពេលលែងម្រាមដៃនឹងត្រឡប់មកធម្មតាវិញ)។
+* **``Space Bar៖``** ប្រើដើម្បីដកឃ្លា។
+* **``Enter៖``** ប្រើសម្រាប់ចុះបន្ទាត់។
+* **``Tab៖``** ប្រើដើម្បីចូលបន្ទាត់។
+* **``Num Lock៖``** ប្រើបើកភ្លើង Num Lock ដើម្បីប្រើប្រាស់ Numeric Key (ក្តារចុចលេខ)។
+* **``Inserting Text៖``** Insert តួអក្សរត្រង់ទីតាំង Cursor។ ប្រសិនបើចង់ Insert ដោយលុបតួអក្សរខាងស្តាំជាប់ Cursor ត្រូវចុចលើ *Insert Key*។
 * **Deleting Text៖**
-  * *Backspace៖* លុបតួអក្សរពីស្តាំទៅឆ្វេង (ខាងឆ្វេង Cursor)។
-  * *Delete៖* លុបតួអក្សរពីឆ្វេងទៅស្តាំ (ខាងស្តាំ Cursor)។
+  * *``Backspace៖``* លុបតួអក្សរពីស្តាំទៅឆ្វេង (ខាងឆ្វេង Cursor)។
+  * *``Delete៖``* លុបតួអក្សរពីឆ្វេងទៅស្តាំ (ខាងស្តាំ Cursor)។
 
 ### ៧. ការជ្រើសរើស និងការជំនួសអត្ថបទ (Select & Replace)
-* **Select Text៖** សង្កត់ Mouse ខាងឆ្វេងឱ្យជាប់រួចអូសពីទីតាំងចំណុចមួយទៅចំណុចមួយ។ 
+* **``Select Text៖``** សង្កត់ Mouse ខាងឆ្វេងឱ្យជាប់រួចអូសពីទីតាំងចំណុចមួយទៅចំណុចមួយ។ 
   * បើចង់បានមួយជួរ៖ យក Pointer ទៅចង្អុលចំ Margin ខាងឆ្វេងពីមុខជួរនោះរួច Click។
   * បើចង់បានច្រើនជួរជាប់គ្នា៖ អូស Mouse មិនលែង។ បើមិនរៀងគ្នា៖ Select ដោយចុច Key **Ctrl** ឱ្យជាប់។
-* **Replace (Mouse)៖** សង្កត់ Mouse ខាងឆ្វេងឱ្យជាប់ត្រង់កន្លែងដែលបាន Select ម្តងទៀត រួចទាញ (Drag) ទៅកាន់ទីតាំងថ្មី។
+* **``Replace (Mouse)៖``** សង្កត់ Mouse ខាងឆ្វេងឱ្យជាប់ត្រង់កន្លែងដែលបាន Select ម្តងទៀត រួចទាញ (Drag) ទៅកាន់ទីតាំងថ្មី។
 
 ### ៨. ការរក្សាទុក និងការបើកឯកសារ (Saving & Opening a Document)
-* **Saving a Document៖** ចូល File Menu -> ចុចលើប៊ូតុង Save -> ជ្រើសរើសទីតាំង (Location) -> ដាក់ឈ្មោះ File (File Name) -> ជ្រើសរើសប្រភេទក្នុង Save as Type -> ចុចលើ Save។
-* **Opening a Document៖** ចូល File Menu -> ចុចលើប៊ូតុង Open -> ជ្រើសរើស file ពីទីតាំងដែលបាន Save -> ចុចលើ Open។
+* **Saving a Document៖** 
+    ``File Menu ->  Save -> ជ្រើសរើសទីតាំង (Location) -> ដាក់ឈ្មោះ File (File Name) ->  Save as Type ->  Save``
+* **Opening a Document៖** 
+    ``ចូល File Menu -> ចុចលើប៊ូតុង Open -> ជ្រើសរើស file ពីទីតាំងដែលបាន Save -> ចុចលើ Open``
 
 ### ៩. ការបោះពុម្ព និងការចាកចេញ (Printing & Exit Word)
-* **Printing a Document៖** ចុច File Menu -> ចុច Print -> កំណត់ចំនួនច្បាប់ (Copies), ជ្រើសរើសម៉ាស៊ីនព្រីន (Printer), និងកំណត់ Printing Layout រួចចុច **Print**។
+* **Printing a Document៖**
+    ` File Menu ->  Print -> កំណត់ចំនួនច្បាប់ (Copies), ជ្រើសរើសម៉ាស៊ីនព្រីន (Printer), និងកំណត់ Printing Layout រួចចុច **Print**។`
   * *Hard copy៖* បោះពុម្ពចេញតាមម៉ាស៊ីនព្រីនលើក្រដាស។
   * *Soft copy៖* បោះពុម្ពជាឯកសារឌីជីថល (មើលតាម Output Device)។
 * **Exit Word (ការបិទកម្មវិធី)៖** មាន ៣ វិធីសាស្ត្រ៖
-  1. ចុចលើប៊ូតុង Close (X) នៅលើ Control Box។
-  2. ចុចលើ File -> ចុចលើ Exit។
-  3. ចុច Key ផ្សំ **Alt + F4**។ 
+  1. ចុចលើប៊ូតុង ``Close (X)`` នៅលើ Control Box។
+  2. ចុចលើ ``File ->  Exit``
+  3. ចុច Key ផ្សំ **``Alt + F4``**។ 
