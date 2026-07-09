@@ -23,8 +23,10 @@
 ### ២. វិធីសាស្ត្រចូលទៅកាន់កម្មវិធី
 1. ចុចប៊ូតុង ``mouse`` ឆ្វេង លើប៊ូតុង **``Start``** ដែលស្ថិតនៅផ្នែកខាងក្រោមចំហៀងខាងឆ្វេងនៃ screen ឬ desktop។
 2. ចុចប៊ូតុង ``mouse`` ឆ្វេងលើ **``All Programs``**។
-3. រំកិល mouse scroll រកឱ្យឃើញ **Microsoft Office** រួចចុច mouse ឆ្វេងលើវា និងបន្តចុចលើ **Microsoft Office Word**។ <br>
-    <img src="1.jpg" height ="500">
+3. រំកិល mouse scroll រកឱ្យឃើញ **Microsoft Office** រួចចុច mouse ឆ្វេងលើវា និងបន្តចុចលើ **Microsoft Office Word**។ 
+   <br>
+    <img src="/MS Word/L1/Pic/1.jpg" height ="500">
+    <br>
 
 ### ៣. ការស្វែងយល់ពីផ្ទាំងការងារ (Understand Work Screen)
 * **``Quick Access Toolbar៖``** ស្ថិតនៅទីតាំងខ្ពស់ជាងគេនៃ Ribbon អនុញ្ញាតឱ្យប្រើប្រាស់ Commands (វត្ថុបញ្ជា) ទោះបីជាកំពុងស្ថិតនៅលើ tabs មួយណាក៏ដោយ ( commands ទូទៅមាន Save, Undo, និង Repeat)។
@@ -43,8 +45,10 @@
 * **``Scroll bar៖``** មានទាំងបញ្ឈរ និងផ្តេក សម្រាប់រំកិលមើលផ្នែកផ្សេងៗនៃឯកសារ។
 * **``Status bar៖``** របាស្ថិតនៅក្រោមគេបង្អស់ បង្ហាញការងារកំពុងធ្វើ ដូចជា ចំនួនពាក្យ ចំនួនទំព័រ និងលេខទំព័របច្ចុប្បន្ន។
 * **``View button៖``** បង្ហាញ Layout View ទាំង ៥ របស់ Word 2010 (Print Layout, Full Reading  Layout, Web Layout, Outline Layout, Draft Layout)។
-* **``Zoom Controller៖``** ប្រើដើម្បីពង្រីក (ធំបំផុត 500%) ឬបង្រួម (តូចបំផុត 10%) ផ្ទៃនៃឯកសារ។​ <br>
-     <img src="2.png" height ="500">
+* **``Zoom Controller៖``** ប្រើដើម្បីពង្រីក (ធំបំផុត 500%) ឬបង្រួម (តូចបំផុត 10%) ផ្ទៃនៃឯកសារ។​ 
+  <br>
+     <img src="/MS Word/L1/Pic/2.png">
+  <br>
 
 ### ៤. បញ្ជី **Mouse Pointer** ដែលប្រើប្រាស់ញឹកញាប់
 | ឈ្មោះ | និមិត្តសញ្ញា | មុខងារ និងការប្រើប្រាស់ |
@@ -69,8 +73,10 @@
     &ensp; ប្រសិនបើមិនទាន់បាន Save នោះផ្ទាំង Information Dialog Box នឹងសួរបញ្ជាក់ថា *"Do you want to save changes you made to Document1?"*
   * ***Save៖*** អនុវត្តការ **Save** រួចទើបបិទ។
   * ***Don't Save៖*** បិទភ្លាមៗ ហើយកិច្ចការដែលពុំទាន់បាន **Save** នឹងត្រូវបាត់បង់។
-  * ***Cancel៖*** មិនបិទឯកសារនោះទេ។ <br>
-    <img src="3.png">
+  * ***Cancel៖*** មិនបិទឯកសារនោះទេ។ 
+  <br>
+    <img src="/MS Word/L1/Pic/3.png">
+  <br>
 
 
 ### ៦. ការវាយបញ្ចូល និងលុបអត្ថបទ (Entering, Inserting & Deleting Text)
@@ -100,10 +106,12 @@
 
 ### ៩. ការបោះពុម្ព និងការចាកចេញ (Printing & Exit Word)
 * **Printing a Document៖**
-    ` File Menu ->  Print -> កំណត់ចំនួនច្បាប់ (Copies), ជ្រើសរើសម៉ាស៊ីនព្រីន (Printer), និងកំណត់ Printing Layout រួចចុច **Print**។`
+    ` File Menu ->  Print -> កំណត់ចំនួនច្បាប់ (Copies), ជ្រើសរើសម៉ាស៊ីនព្រីន (Printer), និងកំណត់ Printing Layout រួចចុច Print។`
   * *Hard copy៖* បោះពុម្ពចេញតាមម៉ាស៊ីនព្រីនលើក្រដាស។
   * *Soft copy៖* បោះពុម្ពជាឯកសារឌីជីថល (មើលតាម Output Device)។
 * **Exit Word (ការបិទកម្មវិធី)៖** មាន ៣ វិធីសាស្ត្រ៖
   1. ចុចលើប៊ូតុង ``Close (X)`` នៅលើ Control Box។
   2. ចុចលើ ``File ->  Exit``
   3. ចុច Key ផ្សំ **``Alt + F4``**។ 
+---
+
